@@ -460,7 +460,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Information mit meine Referenzen als PDF herunterladen",
+          "title": "Information mit meinem Referenzen als PDF herunterladen",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://github.com/agataklim/agata/raw/master/musikundpolnischDE.pdf\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
