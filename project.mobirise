@@ -458,7 +458,7 @@
           },
           "title": "Information mit meine Referencen als PDF herunterladen",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"assets/files/pezendatacja-kopia.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Motywy"
