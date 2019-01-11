@@ -130,7 +130,7 @@
             }
           },
           "title": "Musik und Sprachen lernen",
-          "text": "<p><span style=\"font-size: 1.25rem;\">Musik, Spiel und Tanz sind für Kinder nicht nur unter entwicklungs-psychologischen Aspekten wichtig, sondern sind als kultureller Baustein von großem Stellenwert. Die Identifikation mit der eigenen Kultur und seinen typischen Kinderliedern ist für das Selbstbild und für die Integration von nicht zu unterschätzender Bedeutung.</span></p><p><b style=\"font-size: 1.25rem;\">Unterricht besteht aus 3 folgende Elementen:</b></p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Musik, Spiel und Tanz sind für Kinder nicht nur unter entwicklungs-psychologischen Aspekten wichtig, sondern auch als kultureller Baustein von großem Stellenwert. Die Identifikation mit der eigenen Kultur und seinen typischen Kinderliedern ist für das Selbstbild und für die Integration von nicht zu unterschätzender Bedeutung.</span></p><p><b style=\"font-size: 1.25rem;\">Unterricht besteht aus 3 folgende Elementen:</b></p>",
           "alias": "purity/components",
           "_tags": [
             "Motywy"
@@ -314,7 +314,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "36",
+            "imageSize": "20",
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -351,9 +351,9 @@
               "size": 0
             }
           },
-          "title": "<b>Rhythmisch-musikalische Erziehung in Hannover</b>",
+          "title": "<b><br></b><br><b>Rhythmisch-musikalische Erziehung in Hannover</b>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 1.25rem;\">Durch das Singen und Hören wird auf spielerische Art und Weise der Wortschatz erweitert, Sprache geübt und lustvoll erlebt. Auch durch das Einsetzen von Fingerspiele, Massagen, sowie durch Spiele, die die Mimik und Gestik fördern, wird Kommunikation erprobt. Es wird viel getanzt, gesungen, experimentiert und improvisiert.</span><br></p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Durch das Singen und Hören wird auf spielerische Art und Weise der Wortschatz erweitert, die Sprache geübt und mit Freude erlebt. Auch durch das Einsetzen von Fingerspielen, Massagen, sowie durch Spiele, die die Mimik und Gestik fördern, wird die Kommunikation erprobt. Es wird viel getanzt, gesungen, experimentiert und improvisiert. Der Unterricht basiert auf Umsetzungformen unterschiedlicher Aktionsmodalitäten. Das Kreativitätspotenzial jedes Kindes wird durch fantasievolles Experimentieren und Improvisieren mit Bewegungen, Sprache, Materialien und einfachen Instrumenten gefördert.&nbsp;</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "alias": "purity/components",
           "_tags": [
@@ -415,7 +415,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -460,7 +460,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Information mit meine Referencen als PDF herunterladen",
+          "title": "Information mit meine Referenzen als PDF herunterladen",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://github.com/agataklim/agata/raw/master/musikundpolnischDE.pdf\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "alias": "purity/components",
@@ -517,7 +517,15 @@
             "Motywy"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-f"
+          "_anchor": "contacts1-f",
+          "_styles": {
+            "STRONG": {
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          }
         }
       ]
     }
