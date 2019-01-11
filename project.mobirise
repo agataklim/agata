@@ -458,7 +458,7 @@
           },
           "title": "Information mit meine Referencen als PDF herunterladen",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"assets/files/pezendatacja-kopia.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://render.githubusercontent.com/view/pdf?commit=b63d4bb2291f7e5fda5b1d851f8ce6510dd62884&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f61676174616b6c696d2f61676174612f623633643462623232393166376535666461356231643835316638636536353130646436323838342f6d7573696b756e64706f6c6e6973636844452e706466&amp;nwo=agataklim%2Fagata&amp;path=musikundpolnischDE.pdf&amp;repository_id=165297640&amp;repository_type=Repository#7637ce6e-4327-4e53-ace7-51358f344200\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>",
           "alias": "purity/components",
           "_tags": [
             "Motywy"
