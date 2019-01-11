@@ -10,6 +10,9 @@
 #slider-h P {
   text-align: right;
 }
+#header1-m H1 {
+  color: #ffffff;
+}
 #msg-box4-1 .lead P {
   text-align: center;
 }
@@ -67,74 +70,5 @@
   font-size: 19px;
 }
 #msg-box1-l .btn {
-  font-size: 18px;
-}
-
-
-
-
-#slider-r H2 {
-  text-align: right;
-}
-#slider-r P {
-  text-align: right;
-}
-#msg-box4-s .lead P {
-  text-align: center;
-}
-#msg-box4-s .mbr-section-title {
-  color: #000000;
-}
-#content4-t P {
-  text-align: left;
-}
-#content4-t H4 {
-  color: #d9534f;
-}
-#content5-u .mbr-section-title P {
-  color: #000000;
-}
-#testimonials1-v .card-block {
-  font-size: 30px;
-  color: #d9534f;
-  text-align: center;
-}
-#testimonials1-v .card-footer > div {
-  font-size: 20px;
-  color: #000000;
-  font-family: 'Alegreya Sans', sans-serif;
-  text-align: center;
-}
-#testimonials1-v .card-footer > div B {
-  font-size: 25px;
-  color: #000000;
-  font-family: 'Alegreya Sans', sans-serif;
-}
-#testimonials1-v .card-block B {
-  color: #000000;
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 25px;
-}
-#testimonials1-v .card-block I {
-  color: #000000;
-  font-family: 'Alegreya Sans', sans-serif;
-}
-#testimonials1-v .mbr-section-title {
-  color: #000000;
-}
-#msg-box5-w .mbr-section-title {
-  font-size: 22px;
-}
-#content4-x H4 {
-  font-size: 21px;
-  color: #d9534f;
-}
-#content4-x B {
-  font-size: 20px;
-}
-#msg-box1-z H2 {
-  font-size: 19px;
-}
-#msg-box1-z .btn {
   font-size: 18px;
 }
