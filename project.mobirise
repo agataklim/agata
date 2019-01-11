@@ -269,7 +269,7 @@
             {
               "authorName": "<br>",
               "authorBio": "",
-              "text": "<i>\"Durch das Singen und Hören wird auf spielerische Art und Weise der Wortschatz erweitert, Sprache geübt und lustvoll erlebt.\"&nbsp;</i>"
+              "text": "<font color=\"#000000\"><i>Der Unterricht basiert auf Umsetzungformen unterschiedlicher Aktionsmodalitäten. Das Kreativitätspotenzial jedes Kindes wird durch fantasievolles Experimentieren und Improvisieren mit Bewegungen, Sprache, Materialien und einfachen Instrumenten gefördert.&nbsp;</i></font>"
             }
           ],
           "_styles": {
@@ -314,7 +314,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "20",
+            "imageSize": "32",
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -353,7 +353,7 @@
           },
           "title": "<b><br></b><br><b>Rhythmisch-musikalische Erziehung in Hannover</b>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 1.25rem;\">Durch das Singen und Hören wird auf spielerische Art und Weise der Wortschatz erweitert, die Sprache geübt und mit Freude erlebt. Auch durch das Einsetzen von Fingerspielen, Massagen, sowie durch Spiele, die die Mimik und Gestik fördern, wird die Kommunikation erprobt. Es wird viel getanzt, gesungen, experimentiert und improvisiert. Der Unterricht basiert auf Umsetzungformen unterschiedlicher Aktionsmodalitäten. Das Kreativitätspotenzial jedes Kindes wird durch fantasievolles Experimentieren und Improvisieren mit Bewegungen, Sprache, Materialien und einfachen Instrumenten gefördert.&nbsp;</span><br></p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Durch das Singen und Hören wird auf spielerische Art und Weise der Wortschatz erweitert, die Sprache geübt und mit Freude erlebt. Auch durch das Einsetzen von Fingerspielen, Massagen, sowie durch Spiele, die die Mimik und Gestik fördern, wird die Kommunikation erprobt. Es wird viel getanzt, gesungen, experimentiert und improvisiert.&nbsp;</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "alias": "purity/components",
           "_tags": [
